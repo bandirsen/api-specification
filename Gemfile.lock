@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/nexmo/nexmo-oas-renderer
-  revision: 5b7f3107eeb8fcdb8961b90980cde2632b4769f4
+  revision: 9e11a07e7737776a6fd4cb32ee2162da7e04f18a
   branch: redesign
   specs:
     nexmo-oas-renderer (0.11.1)
@@ -84,7 +84,7 @@ GEM
     deep_merge (1.2.1)
     dotenv (2.7.5)
     erubi (1.9.0)
-    ffi (1.12.2)
+    ffi (1.13.0)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     hansi (0.2.0)
