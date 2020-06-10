@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/nexmo/nexmo-oas-renderer
-  revision: 400f6a2b2032f24ca625ec8ef4b4c92c17067200
+  revision: 7e3c5d138970993b51a1b74c60a9105358f37fb5
   branch: redesign
   specs:
     nexmo-oas-renderer (0.11.1)
