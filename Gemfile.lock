@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/nexmo/nexmo-oas-renderer
-  revision: 7e3c5d138970993b51a1b74c60a9105358f37fb5
+  revision: 1f8312bba08e2650ef3fbc94c27f9e6ec30d2a93
   branch: redesign
   specs:
     nexmo-oas-renderer (0.11.1)
@@ -109,7 +109,7 @@ GEM
       hansi (~> 0.2.0)
       mustermann (= 1.1.1)
     neatjson (0.9)
-    nexmo_markdown_renderer (0.3.1)
+    nexmo_markdown_renderer (0.4.0)
       activemodel (~> 6.0)
       banzai (~> 0.1.2)
       i18n (~> 1.7)
