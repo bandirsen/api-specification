@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/nexmo/nexmo-oas-renderer
-  revision: b539a19dfa9eb7f01152569aeecc850b39662efe
+  revision: 7062138d6535661c70c5e1bcf0e8d0e40702b6c1
   branch: redesign
   specs:
     nexmo-oas-renderer (1.0.0)
@@ -10,7 +10,7 @@ GIT
       dotenv (~> 2.7)
       neatjson (~> 0.8)
       nexmo_markdown_renderer (~> 0.3)
-      oas_parser (~> 0.25.2)
+      oas_parser (~> 0.25.1)
       octicons_helper (~> 8.2)
       redcarpet (= 3.4.0)
       sass (~> 3.1)
