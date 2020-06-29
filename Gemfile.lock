@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/nexmo/nexmo-oas-renderer
-  revision: 7062138d6535661c70c5e1bcf0e8d0e40702b6c1
+  revision: 711991a981049b5c97aa3d2f83cd95d73aec535b
   branch: redesign
   specs:
     nexmo-oas-renderer (1.0.0)
@@ -199,7 +199,7 @@ GEM
     websocket-driver (0.7.2)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    zeitwerk (2.3.0)
+    zeitwerk (2.3.1)
 
 PLATFORMS
   ruby
